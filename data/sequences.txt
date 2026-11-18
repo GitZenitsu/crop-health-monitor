@@ -1,0 +1,12 @@
+aphids leaf_curl sooty_mold
+aphids leaf_curl yellowing
+aphids honeydew sooty_mold
+whitefly leaf_curl yellowing wilting
+whitefly honeydew sooty_mold
+thrips leaf_spots yellowing wilting
+thrips leaf_spots leaf_drop
+aphids leaf_curl yellowing wilting
+whitefly yellowing wilting
+mites leaf_spots leaf_drop
+mites webbing leaf_drop
+aphids honeydew sooty_mold yellowing
