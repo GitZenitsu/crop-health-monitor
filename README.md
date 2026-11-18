@@ -21,9 +21,8 @@ Type the observations separated by spaces, or `quit` to exit.
 ```
 Observed so far: aphids leaf_curl
 Likely next:
-  yellowing  (50%)
-  sooty_mold  (25%)
-  wilting  (25%)
+  yellowing  (67%)
+  sooty_mold  (33%)
 ```
 
 ## Files
